@@ -1,5 +1,7 @@
 # Feedlier
 
+![CI Status](https://github.com/steven0129/Feedlier/actions/workflows/ci.yml/badge.svg)
+
 A special browser for Feedly
 
 ## Prerequisite
